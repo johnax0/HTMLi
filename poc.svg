@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="10000" width="20000">
-  <a href=google.com>
-    <text font-size="24" font-weight="bold" x="10" y="50">softScheck POC</text>
-    
-  </a>
+<a href="https://www.w3schools.com">Visit W3Schools</a>
   
 </svg>
